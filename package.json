@@ -1,0 +1,29 @@
+{
+  "name": "sassygrid",
+  "version": "1.0.0",
+  "description": "A very simple and lightweight grid system based on CSS Grid.",
+  "main": "postcss.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sassyelements/sassygrid.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sassyelements/sassygrid/issues"
+  },
+  "homepage": "https://github.com/sassyelements/sassygrid#readme",
+  "devDependencies": {
+    "cssnano": "^5.0.6",
+    "laravel-mix": "^6.0.24",
+    "postcss": "^8.3.5",
+    "postcss-cli": "^8.3.1",
+    "resolve-url-loader": "^4.0.0",
+    "sass": "^1.35.1",
+    "sass-loader": "^12.1.0"
+  }
+}
